@@ -1,5 +1,6 @@
 syntax on
 set colorcolumn=80
+highlight ColorColumn ctermbg=4
 set number
 
 " == Tab stuff ==
