@@ -20,6 +20,9 @@ set whichwrap+=<,>,h,l,[,]
 " Highlight Searches
 set hlsearch
 
+" Search as you type
+set incsearch
+
 " Underline currentline
 set cursorline
 
